@@ -1,2 +1,0 @@
-(this["webpackJsonpkarikittie.github.io"]=this["webpackJsonpkarikittie.github.io"]||[]).push([[0],{3:function(t,e,n){t.exports=n(8)},8:function(t,e,n){"use strict";n.r(e);var i=n(0),r=n.n(i),a=n(2);var o=function(){return r.a.createElement("div",null)};n.n(a).a.render(r.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.367b1d33.chunk.js.map
