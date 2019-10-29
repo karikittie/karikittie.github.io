@@ -6,6 +6,6 @@ contains rendered content where the code that generated it lives in `develop`.
 
 ### made using:
 
-`gh-pages`: [gh-pages npm](https://www.npmjs.com/package/gh-pages)
-`create-react-app`: [create-react-app github](https://github.com/facebook/create-react-app)
+`gh-pages`: [gh-pages npm](https://www.npmjs.com/package/gh-pages)  
+`create-react-app`: [create-react-app github](https://github.com/facebook/create-react-app)  
 `bootstrap`: [bootstrap homepage](https://getbootstrap.com/)
