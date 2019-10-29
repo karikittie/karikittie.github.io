@@ -1,4 +1,4 @@
-@import '../../theme.scss';
+@import '../theme.scss';
 
 .ks-console {
   background: black;
@@ -11,6 +11,19 @@
     margin-left: 20px;
     line-height: 18px;
     white-space: pre;
+  }
+
+  & a {
+    text-decoration: none;
+    color: yellow;
+  }
+
+  & a:hover {
+    text-decoration: none;
+  }
+
+  & a:focus {
+    text-decoration: none;
   }
 
   &__input {

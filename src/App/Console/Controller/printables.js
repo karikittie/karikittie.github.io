@@ -15,14 +15,4 @@ export const title = [
   " "
 ];
 
-export const mainMenu = [
-  "--> MAIN MENU",
-  "a) about me",
-  "w) other work",
-  "c) contact",
-  " "
-];
-
-export const bio = [
-  
-];
+export const defaultHelpText = 'You can look at a list of commands by typing "help" and pressing return.';

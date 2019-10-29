@@ -52,7 +52,7 @@ const Console = () => {
       {lines.map(line => (
         <Row key={`Console-previous-line-${line.id}`}>
           <Col className="ks-console__previous-line">
-            {line.content}
+            <span dangerouslySetInnerHTML={{ __html: line.content }}></span>
           </Col>
         </Row>
       ))}

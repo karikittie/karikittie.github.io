@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Controller from './shared/Console/Controller';
-import { ConsoleProvider, Console } from './shared/Console';
+import Controller from './Console/Controller';
+import { ConsoleProvider, Console } from './Console';
 
 import './root-styles.scss';
 
