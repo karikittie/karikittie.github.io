@@ -73,7 +73,7 @@ const Controller = () => {
     firstView.current = false;
   }
   if (lines.filter(l => l.type !== LINE_TYPE.LOGO).length === 0) {
-    print(defaultHelpText);
+    print([defaultHelpText, ' ']);
   }
   return <span />;
 };
